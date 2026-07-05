@@ -1,0 +1,146 @@
+Title: Simulation hypothesis
+Sumber: https://en.wikipedia.org/wiki/Simulation_hypothesis
+
+==================================================
+
+The simulation hypothesis proposes that what one experiences as the real world is actually a simulated reality, such as a computer simulation in which humans are constructs. There has been much debate over this topic in the philosophical discourse.
+Precursors include Zhuangzi's "Butterfly Dream" and René Descartes's "evil demon". In 2003, philosopher Nick Bostrom proposed the simulation argument suggesting that if a civilization becomes capable of creating conscious simulations, it could generate so many simulated beings that a randomly chosen conscious entity would almost certainly be in a simulation. This argument presents a trilemma:
+
+either such simulations are not created because of technological limitations or self-destruction;
+advanced civilizations choose not to create them;
+if advanced civilizations do create them, the number of simulations would far exceed base reality and we would therefore almost certainly be living in one.
+This assumes that consciousness is not uniquely tied to biological brains but can arise from any system that implements the right computational structures and processes.
+Variations on the idea have also been featured in science fiction, appearing as a central plot device in many stories and films, such as Simulacron-3 (1964) and The Matrix (1999).
+
+
+== Origins ==
+Human history is full of thinkers who observed the difference between how things seem and how they might actually be, with dreams, illusions, and hallucinations providing poetic and philosophical metaphors. For example, the "Butterfly Dream" of Zhuangzi from ancient China, or the Indian philosophy of Maya, or in ancient Greek philosophy, where Anaxarchus and Monimus likened existing things to a scene-painting and supposed them to resemble the impressions experienced in sleep or madness. Aztec philosophical texts theorized that the world was a painting or book written by the Teotl. A common theme in the spiritual philosophy of the religious movements collectively referred to by scholars as Gnosticism was the belief that reality as we experience it is the creation of a lesser, possibly malevolent, deity, from which humanity should seek to escape.
+In the Western philosophical tradition, Plato's allegory of the cave analogized human beings to chained prisoners unable to see reality. René Descartes' evil demon philosophically formalized these epistemic doubts, to be followed by a large literature with subsequent variations like brain in a vat. In 1969, Konrad Zuse published his book Calculating Space on automata theory, in which he proposed the idea that the universe was fundamentally computational, a concept which became known as digital physics. Later, roboticist Hans Moravec explored related themes through the lens of artificial intelligence, discussing concepts like mind uploading and speculating that our current reality might itself be a computer simulation created by future intelligences.
+
+
+== Simulation argument ==
+
+Nick Bostrom's premise:
+
+Many works of science fiction as well as some forecasts by serious technologists and futurologists predict that enormous amounts of computing power will be available in the future. Let us suppose for a moment that these predictions are correct. One thing that later generations might do with their super-powerful computers is run detailed simulations of their forebears or of people like their forebears. Because their computers would be so powerful, they could run a great many such simulations. Suppose that these simulated people are conscious (as they would be if the simulations were sufficiently fine-grained and if a certain quite widely accepted position in the philosophy of mind is correct). Then it could be the case that the vast majority of minds like ours do not belong to the original race but rather to people simulated by the advanced descendants of an original race.
+Bostrom's conclusion:
+
+It is then possible to argue that, if this were the case, we would be rational to think that we are likely among the simulated minds rather than among the original biological ones.
+Therefore, if we don't think that we are currently living in a computer simulation, we are not entitled to believe that we will have descendants who will run lots of such simulations of their forebears.
+
+
+=== Expanded argument ===
+In 2003, Bostrom proposed a trilemma that he called "the simulation argument". Despite its name, the "simulation argument" does not directly argue that humans live in a simulation; instead, it argues that one of three unlikely-seeming propositions is almost certainly true:
+
+"The fraction of human-level civilizations that reach a posthuman stage (that is, one capable of running high-fidelity ancestor simulations) is very close to zero", or
+"The fraction of posthuman civilizations that are interested in running simulations of their evolutionary history, or variations thereof, is very close to zero", or
+"The fraction of all people with our kind of experiences that are living in a simulation is very close to one".
+The trilemma points out that a technologically mature "posthuman" civilization would have enormous computing power. If even a tiny percentage of "ancestor simulations" were run (that is, "high-fidelity" simulations of ancestral life that would be indistinguishable from reality to the simulated ancestor), the total number of simulated ancestors, or "Sims", in the universe (or multiverse, if it exists) would greatly exceed the total number of actual ancestors.
+Bostrom uses a type of anthropic reasoning to claim that, if the third proposition is the one of those three that is true, and almost all people live in simulations, then humans are almost certainly living in a simulation.
+Bostrom's argument rests on the premise that given sufficiently advanced technology, it would be possible to represent the populated surface of the Earth without recourse to digital physics; that the qualia experienced by a simulated consciousness are comparable or equivalent to those of a naturally occurring human consciousness, and that one or more levels of simulation within simulations would be feasible given only a modest expenditure of computational resources in the real world.
+Bostrom argues that if one assumes that humans will not be destroyed nor destroy themselves before developing such a technology, and that human descendants will have no overriding legal restrictions or moral compunctions against simulating biospheres or their own historical biosphere, then it would be unreasonable to count ourselves among the small minority of genuine organisms who, sooner or later, will be vastly outnumbered by artificial simulations.
+Epistemologically, it is not impossible for humans to tell whether they are living in a simulation. For example, Bostrom suggests that a window could pop up saying: "You are living in a simulation. Click here for more information." However, imperfections in a simulated environment might be difficult for the native inhabitants to identify and for purposes of authenticity, even the simulated memory of a blatant revelation might be purged by a programme. But if any evidence came to light, either for or against the skeptical hypothesis, it would radically alter the aforementioned probability.
+Bostrom claims that his argument goes beyond the classical ancient "skeptical hypothesis", claiming that "... we have interesting empirical reasons to believe that a certain disjunctive claim about the world is true", the third of the three disjunctive propositions being that humans are almost certainly living in a simulation. Thus, Bostrom, and writers in agreement with Bostrom such as David Chalmers, argue there might be empirical reasons for the "simulation hypothesis", and that therefore the simulation hypothesis is not a skeptical hypothesis but rather a "metaphysical hypothesis". Bostrom says he sees no strong argument for which of the three trilemma propositions is the true one: "If (1) is true, then we will almost certainly go extinct before reaching posthumanity. If (2) is true, then there must be a strong convergence among the courses of advanced civilizations so that virtually none contains any individuals who desire to run ancestor-simulations and are free to do so. If (3) is true, then we almost certainly live in a simulation. In the dark forest of our current ignorance, it seems sensible to apportion one's credence roughly evenly between (1), (2), and (3) ... I note that people who hear about the simulation argument often react by saying, 'Yes, I accept the argument, and it is obvious that it is possibility #n that obtains.' But different people pick a different n. Some think it obvious that (1) is true, others that (2) is true, yet others that (3) is true". As a corollary to the trilemma, Bostrom states that "Unless we are now living in a simulation, our descendants will almost certainly never run an ancestor-simulation."
+
+
+=== Criticism of Bostrom's anthropic reasoning ===
+
+Bostrom argues that if "the fraction of all people with our kind of experiences that are living in a simulation is very close to one", then it follows that humans probably live in a simulation. Some philosophers disagree, proposing that perhaps "Sims" do not have conscious experiences the same way that unsimulated humans do, or that it can otherwise be self-evident to a human that they are a human rather than a Sim. Philosopher Barry Dainton modifies Bostrom's trilemma by substituting "neural ancestor simulations" (ranging from literal brains in a vat, to far-future humans with induced high-fidelity hallucinations that they are their own distant ancestors) for Bostrom's "ancestor simulations", on the grounds that every philosophical school of thought can agree that sufficiently high-tech neural ancestor simulation experiences would be indistinguishable from non-simulated experiences. Even if high-fidelity computer Sims are never conscious, Dainton's reasoning leads to the following conclusion: either the fraction of human-level civilizations that reach a posthuman stage and are able and willing to run large numbers of neural ancestor simulations is close to zero, or some kind of (possibly neural) ancestor simulation exists.
+The hypothesis has received criticism from some physicists, such as Sabine Hossenfelder, who considers that it is physically impossible to simulate the universe without producing measurable inconsistencies, and called it pseudoscience and religion. Cosmologist George F. R. Ellis, who stated that "[the hypothesis] is totally impracticable from a technical viewpoint", and that "late-night pub discussion is not a viable theory". Some scholars categorically reject—or are uninterested in—anthropic reasoning, dismissing it as "merely philosophical", unfalsifiable, or inherently unscientific.
+Some critics propose that the simulation could be in the first generation, and all the simulated people that will one day be created do not yet exist, in accordance with philosophical presentism.
+The cosmologist Sean M. Carroll argues that the simulation hypothesis leads to a contradiction: if humans are typical, as it is assumed, and not capable of performing simulations, this contradicts the arguer's assumption that it is easy for us to foresee that other civilizations can most likely perform simulations.
+Physicist Frank Wilczek raises an empirical objection, saying that the laws of the universe have hidden complexity which is "not used for anything" and the laws are constrained by time and location—all of this being unnecessary and extraneous in a simulation. He further argues that the simulation argument amounts to "begging the question," due to the "embarrassing question" of the nature of the underlying reality in which this universe is simulated. "Okay if this is a simulated world, what is the thing in which it is simulated made out of? What are the laws for that?"
+Brian Eggleston has argued that the future humans of our universe cannot be the ones performing the simulation, since the simulation argument considers our universe to be the one being simulated. In other words, it has been argued that the probability that humans live in a simulated universe is not independent of the prior probability that is assigned to the existence of other universes.
+
+
+=== Arguments, within the trilemma, against the simulation hypothesis ===
+
+Some scholars accept the trilemma, and argue that the first or second of the propositions are true, and that the third proposition (the proposition that humans live in a simulation) is false. Physicist Paul Davies uses Bostrom's trilemma as part of one possible argument against a near-infinite multiverse. This argument runs as follows: if there were a near-infinite multiverse, there would be posthuman civilizations running ancestor simulations, which would lead to the untenable and scientifically self-defeating conclusion that humans live in a simulation; therefore, by reductio ad absurdum, existing multiverse theories are likely false. (Unlike Bostrom and Chalmers, Davies (among others) considers the simulation hypothesis to be self-defeating.)
+Some point out that there is currently no proof of technology that would facilitate the existence of sufficiently high-fidelity ancestor simulation. Additionally, there is no proof that it is physically possible or feasible for a posthuman civilization to create such a simulation, and therefore for the present, the first proposition must be taken to be true. Additionally there are limits of computation.
+Physicist Marcelo Gleiser objects to the notion that posthumans would have a reason to run simulated universes: "...being so advanced they would have collected enough knowledge about their past to have little interest in this kind of simulation. ...They may have virtual-reality museums, where they could go and experience the lives and tribulations of their ancestors. But a full-fledged, resource-consuming simulation of an entire universe? Sounds like a colossal waste of time". Gleiser also points out that there is no plausible reason to stop at one level of simulation, so that the simulated ancestors might also be simulating their ancestors, and so on, creating an infinite regress akin to the "problem of the First Cause".
+In 2019, philosopher Preston Greene suggested that it may be best not to find out if we are living in a simulation, since, if it were found to be true, such knowing might end the simulation.
+Economist Robin Hanson argues that a self-interested occupant of a high-fidelity simulation should strive to be entertaining and praiseworthy in order to avoid being turned off or being shunted into a non-conscious low-fidelity part of the simulation. Hanson additionally speculates that someone who is aware that he might be in a simulation might care less about others and live more for today: "your motivation to save for retirement, or to help the poor in Ethiopia, might be muted by realizing that in your simulation, you will never retire and there is no Ethiopia".
+Besides attempting to assess whether the simulation hypothesis is true or false, philosophers have also used it to illustrate other philosophical problems, especially in metaphysics and epistemology. David Chalmers has argued that simulated beings might wonder whether their mental lives are governed by the physics of their environment, when in fact these mental lives are simulated separately (and are thus, in fact, not governed by the simulated physics). Chalmers claims that they might eventually find that their thoughts fail to be physically caused, and argues that this means that Cartesian dualism is not necessarily as problematic of a philosophical view as is commonly supposed, though he does not endorse it. Similar arguments have been made for philosophical views about personal identity that say that an individual could have been another human being in the past, as well as views about qualia that say that colors could have appeared differently than they do (the inverted spectrum scenario). In both cases, the claim is that all this would require is hooking up the mental lives to the simulated physics in a different way.
+
+
+=== Computationalism ===
+
+Computationalism is a philosophy of mind theory stating that cognition is a form of computation. It is relevant to the simulation hypothesis in that it illustrates how a simulation could contain conscious subjects, as required by a "virtual people" simulation. For example, it is well known that physical systems can be simulated to some degree of accuracy. If computationalism is correct and if there is no problem in generating artificial consciousness or cognition, it would establish the theoretical possibility of a simulated reality. Nevertheless, the relationship between cognition and phenomenal qualia of consciousness is disputed. It is possible that consciousness requires a vital substrate that a computer cannot provide and that simulated people, while behaving appropriately, would be philosophical zombies. This would undermine Nick Bostrom's simulation argument; humans cannot be a simulated consciousness, if consciousness, as humans understand it, cannot be simulated. The skeptical hypothesis remains intact, however, and humans could still be vatted brains, existing as conscious beings within a simulated environment, even if consciousness cannot be simulated. It has been suggested that whereas virtual reality would enable a participant to experience only three senses (sight, sound and optionally smell), simulated reality would enable all five (including taste and touch).
+Some theorists have argued that if the "consciousness-is-computation" version of computationalism and mathematical realism (or radical mathematical Platonism) are true, then consciousness is computation, which in principle is platform independent and thus admits of simulation. This argument states that a "Platonic realm" or ultimate ensemble would contain every algorithm, including those that implement consciousness. Hans Moravec has explored the simulation hypothesis and has argued for a kind of mathematical Platonism according to which every object (including, for example, a stone) can be regarded as implementing every possible computation.
+
+
+== In physics ==
+In physics, the view of the universe and its workings as the ebb and flow of information was first observed by Wheeler. Consequently, two views of the world emerged: the first one proposes that the universe is a quantum computer, while the other one proposes that the system performing the simulation is distinct from its simulation (the universe). Of the former view, quantum-computing specialist Dave Bacon wrote:
+
+In many respects this point of view may be nothing more than a result of the fact that the notion of computation is the disease of our age—everywhere we look today we see examples of computers, computation, and information theory and thus we extrapolate this to our laws of physics. Indeed, thinking about computing as arising from faulty components, it seems as if the abstraction that uses perfectly operating computers is unlikely to exist as anything but a platonic ideal. Another critique of such a point of view is that there is no evidence for the kind of digitization that characterizes computers nor are there any predictions made by those who advocate such a view that have been experimentally confirmed.
+
+
+=== Testing the hypothesis physically ===
+A method to test one type of simulation hypothesis was proposed in 2012 by physicists Silas R. Beane, Zohreh Davoudi, and Martin J. Savage. Under the assumption of finite computational resources, the simulation of the universe would be performed by dividing the space-time continuum into a discrete set of points, which may result in observable effects. In analogy with the mini-simulations that lattice-gauge theorists run today to build up nuclei from the underlying theory of strong interactions (known as quantum chromodynamics), several observational consequences of a grid-like space-time have been studied in their work. Among proposed signatures is an anisotropy in the distribution of ultra-high-energy cosmic rays that, if observed, would be consistent with the simulation hypothesis according to these physicists. In 2017, Campbell et al. proposed several experiments aimed at testing the simulation hypothesis in their paper "On Testing the Simulation Theory".
+
+
+== Reception ==
+Astrophysicist Neil Degrasse Tyson said in a 2018 NBC News interview that he estimated the likelihood of the simulation hypothesis being correct at "better than 50-50 odds", adding "I wish I could summon a strong argument against it, but I can find none". However, in a subsequent interview with Chuck Nice on a YouTube episode of StarTalk, Tyson shared that his friend J. Richard Gott, a professor of astrophysical sciences at Princeton University, made him aware of a strong objection to the simulation hypothesis. The objection claims that the common trait that all hypothetical high-fidelity simulated universes possess is the ability to produce high-fidelity simulated universes. And since our current world does not possess this ability, it would mean that either humans are in the real universe, and therefore simulated universes have not yet been created, or that humans are the last in a very long chain of simulated universes, an observation that makes the simulation hypothesis seem less probable. Regarding this objection, Tyson remarked "that changes my life".
+Elon Musk, the CEO of Tesla and SpaceX, stated that the argument for the simulation hypothesis is "quite strong". In a podcast with Joe Rogan, Musk said "If you assume any rate of improvement at all, games will eventually be indistinguishable from reality" before concluding "that it's most likely we're in a simulation". At various other press conferences and events, Musk has also speculated that the likelihood of us living in a simulated reality or computer made by others is about 99.9%, and stated in a 2016 interview that he believed there was "a one in billion chance we're in base reality".
+
+
+== Dream hypothesis ==
+The idea that a dream could be considered a type of simulation capable of fooling the dreamer, and that perhaps even waking reality is entirely a dream, existed long before Bostrom's formulation. One of the first philosophers to question the distinction between reality and dreams was Zhuangzi, a Chinese philosopher of the 4th century BC. He phrased the problem as the well-known "Butterfly Dream", which went as follows:
+Once Zhuangzi dreamt he was a butterfly, a butterfly flitting and fluttering around, happy with himself and doing as he pleased. He didn't know he was Zhuangzi. Suddenly he woke up and there he was, solid and unmistakable Zhuangzi. But he didn't know if he was Zhuangzi who had dreamt he was a butterfly or a butterfly dreaming he was Zhuangzi. Between Zhuangzi and a butterfly there must be some distinction! This is called the Transformation of Things. (2, tr. Burton Watson 1968:49)
+The philosophical underpinnings of this argument are also brought up by Descartes, who was one of the first Western philosophers to do so. In Meditations on First Philosophy, he states "...there are no certain indications by which we may clearly distinguish wakefulness from sleep", and goes on to conclude that "It is possible that I am dreaming right now and that all of my perceptions are false".
+Chalmers (2003) discusses the dream hypothesis and notes that this comes in two distinct forms:
+
+that he is currently dreaming, in which case many of his beliefs about the world are incorrect;
+that he has always been dreaming, in which case the objects he perceives actually exist, albeit in his imagination.
+Both the dream argument and the simulation hypothesis can be regarded as skeptical hypotheses. Another state of mind in which some argue an individual's perceptions have no physical basis in the real world is psychosis, though psychosis may have a physical basis in the real world and explanations may vary.
+In On Certainty, the philosopher Ludwig Wittgenstein has argued that such skeptical hypotheses are unsinnig (i.e. non-sensical), as they doubt knowledge that is required in order to make sense of the hypotheses themselves. Bertrand Russell has argued that the dream hypothesis is not a logical impossibility, but that common sense as well as considerations of simplicity and inference to the best explanation rule against it.
+The dream hypothesis is also used to develop other philosophical concepts, such as Valberg's personal horizon: what this world would be internal to if this were all a dream.
+Lucid dreaming is characterized as an idea where the elements of dreaming and waking are combined to a point where the user knows they are dreaming, or waking perhaps.
+
+
+== In popular culture ==
+The simulation hypothesis and related themes like simulated reality have been explored in literature, film and theatre.
+Simulacron-3 (1964) by Daniel F. Galouye is an early exploration of a computer-simulated city and inspired screen adaptations including World on a Wire (1973) and, later, The Thirteenth Floor (1999).
+The Matrix (1999) popularized the idea of humanity unknowingly living inside a machine-generated virtual reality.
+In Overdrawn at the Memory Bank (1983/1984), the protagonist undergoes compulsory “doppling” therapy that transfers his consciousness, and—after a mishap—his mind is kept inside the corporation's central computer.
+Theatre has also treated the topic. Jay Scheib’s 2012 play World of Wires was explicitly inspired by Bostrom’s simulation argument and by Fassbinder’s World on a Wire.
+Philip K. Dick’s short story “We Can Remember It for You Wholesale” (1966)—about implanted memories and unstable realities—formed the basis for Total Recall (1990) and its 2012 remake.
+In 2025, Italian creative director and producer Giorgio Fazio released the two-track project Nothing But Simulation, thematically tied to the simulation hypothesis and paired with a generative web experience.
+
+
+== See also ==
+Artificial life
+Artificial society
+Boltzmann brain
+Brain in a vat
+Digital physics
+Interface theory
+Fine-tuned universe
+Holographic principle
+Matrix defense
+Metaverse
+Mind uploading
+Subjective idealism
+Virtual reality
+
+
+== References ==
+
+
+== Further reading ==
+Copleston, Frederick (1993) [1946]. "XIX Theory of Knowledge". A History of Philosophy, Volume I: Greece and Rome. New York: Image Books (Doubleday). p. 160. ISBN 978-0-385-46843-5.
+Copleston, Frederick (1994) [1960]. "II Descartes (I)". A History of Philosophy, Volume IV: Modern Philosophy. New York: Image Books (Doubleday). p. 86. ISBN 978-0-385-47041-4.
+Deutsch, David (1997). The Fabric of Reality. London: Penguin Science (Allen Lane). ISBN 978-0-14-014690-5.
+Lloyd, Seth (2006). Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos. Knopf. ISBN 978-1-4000-4092-6.
+Tipler, Frank (1994). The Physics of Immortality. Doubleday. ISBN 978-0-385-46799-5.
+Lem, Stanislaw (1964). Summa Technologiae. Suhrkamp. ISBN 978-3-518-37178-7. {{cite book}}: ISBN / Date incompatibility (help)
+"Are We Living in a Simulation?" BBC Focus magazine, March 2013, pp. 43–45. Interview with physicist Silas Beane of the University of Bonn discussing a proposed test for simulated reality evidence. Three pages, three photos, including one of Beane and a computer-generated scene from the film The Matrix. Publisher: Immediate Media Company, Bristol, UK.
+Conitzer, Vincent. "A Puzzle About Further Facts". Open access version of article in Erkenntnis.
+Lev, Gid'on. Life in the Matrix. Haaretz Magazine, April 25, 2019, p. 6.
+Merali, Zeeya. "Do We Live in the Matrix?" Discover, December 2013, pp. 24–25. Subtitle: "Physicists have proposed tests to reveal whether we are part of a giant computer simulation".
+Grupp, Jeff (2021-09-01). "The Implantation Argument: Simulation Theory is Proof that God Exists". Metaphysica. 22 (2): 189–221. doi:10.1515/mp-2020-0014. S2CID 237494519.
+Laszlo, Fazekas (2026). Simulated Reality: Brain–Machine Interfaces and Transhumanism. Amazon. ISBN 979-8244192735.
+
+
+== External links ==
+Are We Living in a Computer Simulation?—Nick Bostrom's Simulation Argument webpage
