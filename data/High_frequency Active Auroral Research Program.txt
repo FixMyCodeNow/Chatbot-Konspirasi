@@ -1,0 +1,154 @@
+Title: High-frequency Active Auroral Research Program
+Sumber: https://en.wikipedia.org/wiki/High-frequency_Active_Auroral_Research_Program
+
+==================================================
+
+The High-frequency Active Auroral Research Program (HAARP) is a University of Alaska Fairbanks program which researches the ionosphere – the highest, ionized part of Earth's atmosphere. The most prominent instrument at HAARP is the Ionospheric Research Instrument (IRI), a high-power radio frequency transmitter facility operating in the high frequency (HF) band. The IRI is used to temporarily excite a limited area of the ionosphere. Other instruments, such as a VHF and a UHF radar, a fluxgate magnetometer, a digisonde (an ionospheric sounding device), and an induction magnetometer, are used to study the physical processes that occur in the excited region. Work on the HAARP facility began in 1993. Initially HAARP was jointly funded by the U.S. Air Force, the U.S. Navy, the University of Alaska Fairbanks, and the Defense Advanced Research Projects Agency (DARPA). It was designed and built by BAE Advanced Technologies. Its original purpose was to analyze the ionosphere and investigate the potential for developing ionospheric enhancement technology for radio communications and surveillance. Since 2015 it has been operated by the University of Alaska Fairbanks.
+The current working IRI was completed in 2007; its prime contractor was BAE Systems Advanced Technologies. As of 2008, HAARP had incurred around $250 million in tax-funded construction and operating costs. In May 2014, it was announced that the HAARP program would be permanently shut down later in the year. After discussions between the parties, ownership of the facility was transferred to the University of Alaska Fairbanks in August 2015.
+HAARP is a target of conspiracy theorists, who claim that it is capable of weather manipulation and mind control. Scientists and other critics point out that these claims fall well outside the abilities of the facility, and often outside the scope of current natural science.
+
+
+== History ==
+
+The High-frequency Active Auroral Research Program began in 1990. Ted Stevens, Republican U.S. senator from Alaska, helped win approval for the facility, and construction began in 1993.
+In early May 2013, HAARP was temporarily shut down, awaiting a change between contractors to operate the facility. In July 2013, HAARP program manager James Keeney said, "Defense Advanced Research Projects Agency (DARPA) is expected on site as a client to finish up some research in fall 2013 and winter 2014." The temporary shutdown was described as being due to "a contractor regime change." Ahtna, Incorporated, the Alaska Native corporation serving the region of Alaska where the HAARP site is located, was reportedly in talks to take over the facility administration contract from Marsh Creek, LLC.
+In May 2014, the Air Force announced that the HAARP program would be shut down later in 2014. While experiments ended in the summer of 2014, the complete shutdown and dismantling of the facility was postponed until at least May 2015. In mid-August 2015 control of the facility and its equipment was turned over to the University of Alaska Fairbanks, which is making the facilities available for researchers on a pay-per-use basis.
+
+
+== Project overview ==
+HAARP began operating in 1999 as a 6 × 8 (= 48) antenna array at 0.96 MW, expanding in 2007 to a 12 × 15 (=180) array of 180 antennas with 360 radio transmitters at 9.6 MW. It covers 14 ha near Gakona, about 250 km northeast of Anchorage. Its beam direction is anywhere within 30° of zenith.
+The HAARP project directs a 3.6 MW signal, in the 2.8–10 MHz region of the HF band, into the ionosphere. The signal may be pulsed or continuous. Effects of the transmission and any recovery period can be examined using associated instrumentation, including VHF and UHF radars, HF receivers, and optical cameras. According to the HAARP team, this will advance the study of basic natural processes that occur in the ionosphere under the natural but much stronger influence of solar interaction. HAARP also enables studies of how the natural ionosphere affects radio signals.
+The insights gleaned at HAARP will enable scientists to develop methods to mitigate these effects to improve the reliability or performance of communication and navigation systems which would have a wide range of both civilian and military uses, such as an increased accuracy of GPS navigation and advances in underwater and underground research and applications. This may lead, among other things, to improved methods for submarine communication or an ability to remotely sense and map the mineral content of the terrestrial subsurface, and perhaps underground complexes, of regions or countries. The current facility lacks range to be used in regions like the oil-rich Middle East, according to one of the researchers involved, but the technology could be put on a mobile platform.
+The project was originally funded by the Office of Naval Research and jointly managed by the ONR and Air Force Research Laboratory, with principal involvement of the University of Alaska Fairbanks; other US universities and educational institutions involved in the development of the project and its instruments include Stanford University, Penn State University (ARL), Boston College, UCLA, Clemson University, Dartmouth College, Cornell University, Johns Hopkins University, University of Maryland, College Park, University of Massachusetts Amherst, MIT, Polytechnic Institute of New York University, Virginia Tech and the University of Tulsa. The project's specifications were developed by the universities, who continued to play a major role in the design of future research efforts.
+According to HAARP's original management, the project strove for openness, and all activities were logged and publicly available, a practice which continues under the University of Alaska Fairbanks. Scientists without security clearances, even foreign nationals, were routinely allowed on site, which also continues today. HAARP hosts an open house annually, during which time any civilian can tour the entire facility. In addition, scientific results obtained using HAARP are routinely published in major research journals (such as Geophysical Research Letters and Journal of Geophysical Research), written both by university scientists (American and foreign) and by U.S. Department of Defense research lab scientists.
+
+
+== Research ==
+HAARP's main goal is basic science research in the uppermost portion of the atmosphere, termed the ionosphere. Essentially a transition between the atmosphere and the magnetosphere, the ionosphere is where the atmosphere is thin enough that the Sun's X-rays and UV rays can reach it, but thick enough that there are enough molecules present to absorb those rays. Consequently, the ionosphere consists of a rapid increase in density of free electrons, beginning at ~70 km, reaching a peak at ~300 km, and then falling off again as the atmosphere disappears entirely by ~1,000 km. Various aspects of HAARP can study all of the main layers of the ionosphere.
+The profile of the ionosphere is highly variable, changing constantly on timescales of minutes, hours, days, seasons, and years. This profile becomes even more complex near Earth's magnetic poles, where the nearly vertical alignment and intensity of Earth's magnetic field can cause physical effects like the aurora.
+The ionosphere is traditionally very difficult to measure. Balloons cannot reach it because the air is too thin, but satellites cannot orbit there because the air is too thick. Hence, most experiments on the ionosphere give only small pieces of information. HAARP approaches the study of the ionosphere by following in the footsteps of an ionospheric heater called EISCAT near Tromsø, Norway. There, scientists pioneered exploration of the ionosphere by perturbing it with radio waves in the 2–10 MHz range, and studying how the ionosphere reacts. HAARP performs the same functions but with more power and a more flexible and agile HF beam.
+Some of the main capabilities of HAARP include:
+
+Generating very low frequency (VLF) radio waves by modulated heating of the auroral electrojet, useful because generating VLF waves ordinarily requires gigantic antennas
+Generating artificial airglow, which is typically subvisual but routinely detectable. Under certain geophysical conditions and transmitter configurations, it can be bright enough to observe with the unaided eye.
+Generating extremely low frequency (ELF) waves in the 0.1 Hz range. These are next to impossible to produce any other way, because the length of an antenna is dictated by the wavelength of the signal it emits or receives.
+Generating whistler-mode VLF signals that enter the magnetosphere and propagate to the other hemisphere, interacting with Van Allen radiation belt particles along the way
+VLF remote sensing of the heated ionosphere
+Research at the HAARP has included:
+
+Plasma line observations
+Stimulated electron emission observations. That is, HAARP stimulates plasma waves, which creates radio waves that are received on the ground. The spectrum depends on charge density, ion mass, magnetic field strength, etc.
+Gyro frequency heating research
+Spread F observations (blurring of ionospheric echoes of radio waves due to irregularities in electron density in the F layer)
+High-velocity trace runs
+Airglow observations
+Heating induced scintillation observations
+VLF and ELF generation observations
+Radio observations of meteors
+Polar mesospheric summer echoes (PMSE) have been studied, probing the mesosphere using the IRI as a powerful radar, and with a 28 MHz radar and two VHF radars at 49 MHz and 139 MHz. The presence of multiple radars spanning both HF and VHF bands allows scientists to make comparative measurements that may someday lead to an understanding of the processes that form these elusive phenomena.
+Research into extraterrestrial HF radar echos: the Lunar Echo experiment (2008).
+Testing of spread spectrum Transmitters (2009)
+Meteor shower impacts on the ionosphere
+Response and recovery of the ionosphere from solar flares and geomagnetic storms
+The effect of ionospheric disturbances on GPS satellite signal quality
+Producing high density plasma clouds in Earth's upper atmosphere
+The magnetic zenith effect, that airglow excited by heated electrons becomes much stronger when at the magnetic zenith (the direction of magnetic field). ~100 Rayleighs in  O(1 S) 557.7 nm and O(1 D) 630 nm, the main spectral lines in aurora airglows.
+Research conducted at the HAARP facility has allowed the US military to perfect communications with its fleet of submarines by sending radio signals over long distances.
+
+
+== Instrumentation and operation ==
+The main instrument at HAARP is the Ionospheric Research Instrument (IRI). This is a high-power, high-frequency phased array radio transmitter with a set of 180 antennas, disposed in an array of 12×15 units that occupy a rectangle of about 30–40 acres (12–16 hectares). The IRI is used to temporarily energize a small portion of the ionosphere. The study of these disturbed volumes yields important information for understanding natural ionospheric processes.
+During active ionospheric research, the signal generated by the transmitter system is delivered to the antenna array and transmitted in an upward direction. At an altitude between 70 and 350 km (43 and 217 mi) (depending on operating frequency), the signal is partially absorbed in a small volume several tens of kilometers in diameter and a few meters thick over the IRI. The intensity of the HF signal in the ionosphere is less than 3 μW/cm2, tens of thousands of times less than the Sun's natural electromagnetic radiation reaching the Earth and hundreds of times less than even the normal random variations in intensity of the Sun's natural ultraviolet (UV) energy which creates the ionosphere. The small effects that are produced can be observed with the sensitive scientific instruments installed at the HAARP facility. These observations can provide information about the dynamics of plasmas and insight into the processes of solar-terrestrial interactions.
+Each antenna element consists of a crossed dipole that can be polarized for linear, ordinary mode (O-mode), or extraordinary mode (X-mode) transmission and reception.
+Each part of the two section crossed dipoles is individually fed from a specially designed, custom-built transmitter that operates at very low distortion levels. The effective radiated power (ERP) of the IRI is limited by more than a factor of 10 at its lower operating frequencies. Much of this is due to higher antenna losses and a less efficient antenna pattern.
+The IRI can transmit between 2.7 and 10 MHz, a frequency range that lies above the AM radio broadcast band and well below Citizens' Band frequency allocations. HAARP is licensed to transmit only in certain segments of this frequency range. When the IRI is transmitting, the bandwidth of the transmitted signal is 100 kHz or less. The IRI can transmit in continuous waves (CW) or in pulses as short as 10 microseconds (μs). CW transmission is generally used for ionospheric modification, while transmission in short pulses frequently repeated is used as a radar system. Researchers can run experiments that use both modes of transmission, first modifying the ionosphere for a predetermined amount of time, then measuring the decay of modification effects with pulsed transmissions.
+There are other geophysical instruments for research located at the HAARP facility. Some of them are:
+
+A fluxgate magnetometer built by the University of Alaska Fairbanks Geophysical Institute, available to chart variations in the Earth's magnetic field. Rapid and sharp changes of the magnetic field may indicate a geomagnetic storm.
+A digisonde that can provide ionospheric profiles, allowing scientists to choose appropriate frequencies for IRI operation. The HAARP makes current and historic digisonde information available online.
+An induction magnetometer, provided by the University of Tokyo, that measures the changing geomagnetic field in the Ultra Low Frequency (ULF) range of 0–5 Hz.
+The facility is powered by a set of five 2500 kilowatt generators being driven by EMD 20-645-E4 diesel locomotive engines.
+
+
+== Site ==
+
+The project site (62°23′30″N 145°09′03″W) is north of Gakona, Alaska just west of Wrangell-Saint Elias National Park. An environmental impact statement led to permission for an array of up to 180 antennas to be erected. HAARP was constructed at the previous site of an over-the-horizon radar (OTH) installation. A large structure, built to house the OTH now houses the HAARP control room, kitchen and offices. Several other small structures house various instruments.
+The HAARP site was constructed in three distinct phases:
+
+The Developmental Prototype (DP) had 18 antenna elements, organized in three columns by six rows. It was fed with a total of 360 kilowatts (kW) combined transmitter output power. The DP transmitted just enough power for the most basic of ionospheric testing.
+The Filled Developmental Prototype (FDP) had 48 antenna units arrayed in six columns by eight rows, with 960 kW of transmitter power. It was fairly comparable to other ionospheric heating facilities. This was used for a number of successful scientific experiments and ionospheric exploration campaigns over the years.
+The Final IRI (FIRI) is the final build of the IRI. It has 180 antenna units, organized in 15 columns by 12 rows, yielding a theoretical maximum gain of 31 dB. A total of 3.6 MW of transmitter power will feed it, but the power is focused in the upward direction by the geometry of the large phased array of antennas which allow the antennas to work together in controlling the direction. As of March 2007, all the antennas were in place, the final phase was completed and the antenna array was undergoing testing aimed at fine-tuning its performance to comply with safety requirements required by regulatory agencies. The facility officially began full operations in its final status of 3.6 MW transmitter power in the summer of 2007, yielding a maximum effective radiated power (ERP) of 5.1 gigawatts or 97.1 dBW. However, the site typically operates at a fraction of that power due to the lower antenna gain exhibited at frequencies used in standard operation.
+
+
+== Related facilities ==
+In the United States, there have been two related ionospheric heating facilities: the HIPAS, near Fairbanks, Alaska, which was dismantled in 2009, and one at the Arecibo Observatory in Puerto Rico, which collapsed in 2020. The European Incoherent Scatter Scientific Association (EISCAT) operates an ionospheric heating facility capable of transmitting over 1 GW effective radiated power (ERP), near Tromsø, Norway. The Sura Ionospheric Heating Facility, in Vasilsursk, Russia, near Nizhniy Novgorod, is capable of transmitting 190 MW ERP.
+
+
+== Conspiracy theories ==
+
+HAARP is the subject of numerous conspiracy theories. Various individuals have speculated about hidden motivations and capabilities of the project. For example, Rosalie Bertell warned in 1996 about the deployment of HAARP as a military weapon. Michel Chossudovsky stated in a book published by the Committee on Monetary and Economic Reform that "recent scientific evidence suggests that HAARP is fully operational and has the capability of triggering floods, hurricanes, droughts and earthquakes." Over time, HAARP has been blamed for generating such catastrophes, as well as thunderstorms, in Iran, Pakistan, Haiti, Turkey, Greece and the Philippines, and even major power outages, the downing of TWA Flight 800, Gulf War syndrome, and chronic fatigue syndrome.
+Allegations include the following:
+
+Nick Begich Jr., the son of the late U.S. Representative Nick Begich Sr., brother of former U.S. Senator Mark Begich and retired Alaska state senator Tom Begich, and father of current U.S. Representative Nick Begich III is the co-author of Angels Don't Play This HAARP. He has claimed that the HAARP facility could trigger earthquakes and turn the upper atmosphere into a giant lens so that "the sky would literally appear to burn." He maintains a website that claims HAARP is a mind control device.
+A Russian military journal wrote that ionospheric testing would "trigger a cascade of electrons that could flip Earth's magnetic poles".
+The Alaska state legislature and the European Parliament held hearings about HAARP, the latter citing environmental concerns.
+Former Governor of Minnesota, ex-professional wrestler, and documentary maker Jesse Ventura questioned whether the government is using the site to manipulate the weather or to bombard people with mind-controlling radio waves. An Air Force spokeswoman said Ventura made an official request to visit the research station but was rejected. "He and his crew showed up at HAARP anyway and were denied access."
+Physicist Bernard Eastlund claimed that HAARP includes technology based on his own patents that has the capability to modify weather and neutralize satellites.
+Author Jerry E. Smith claims that HAARP can be used for death rays, mind control, and earthquake creation.
+It has been proposed as a cause of low frequency background hums said to be heard in various locales.
+In 1995, Elisabeth Rehn, Finnish Member of the European Parliament, tabled a motion for a resolution on the potential use of military-related resources for environmental strategies. The proposal is referred to the Committee on Foreign Affairs, Security and Defense Policy for substantive consideration. Magda Aelvoet, Belgian MEP and President of the Green Group, becomes convinced that HAARP is a secret weapon system. In 1998, the two MEPs, convinced by Begich's theory that HAARP poses a threat to the environment, decided to write a report in which they interviewed only two people — Begich and Rosalie Bertell, head of a Canadian association which also supports the conspiracy theory of chemtrails — the invited representatives of the United States and NATO did not respond. It is on the basis of these two testimonies alone, in which Begich is described as a doctor without having any qualification, that a report by the European Parliament's Committee on Foreign Affairs, Security and Defense Policy relating to the environment, security and foreign policy takes up these assertions and adopts a resolution indicating that "HAARP (High Frequency Active Auroral Research Project) by virtue of its far-reaching impact on the environment to be a global concern and (the European Parliament) calls for its legal, ecological and ethical implications to be examined by an international independent body before any further research and testing."
+Two Georgia men arrested on drug charges in November 2016 were reportedly plotting domestic terrorism based on conspiracy theories about HAARP. The Coffee County Sheriff's Office said the men possessed a "massive arsenal" that included AR-15 rifles, Glock handguns, a Remington rifle and thousands of rounds of ammunition. According to police, the men wanted to destroy HAARP because they believed the facility manipulates the weather, controls minds and even traps the souls of people. Police say the men confessed that "God told them to go and blow this machine up that kept souls, so souls could be released."
+Stanford University professor Umran Inan told Popular Science that weather-control conspiracy theories were "completely uninformed," explaining that "there's absolutely nothing we can do to disturb the Earth's [weather] systems. Even though the power HAARP radiates is very large, it's minuscule compared with the power of a lightning flash—and there are 50 to 100 lightning flashes every second. HAARP's intensity is very small." Computer scientist David Naiditch characterizes HAARP as "a magnet for conspiracy theorists," saying that HAARP attracts their attention because, "its purpose seems deeply mysterious to the scientifically uninformed." Journalist Sharon Weinberger called HAARP "the Moby Dick of conspiracy theories," and said the popularity of conspiracy theories often overshadows the benefits HAARP may provide to the scientific community. Austin Baird writing in the Alaska Dispatch said, "What makes HAARP susceptible to conspiracy criticism is simple. The facility doesn't open its doors in the same way as other federally funded research facilities around the country, and it doesn't go to great efforts to explain the importance of its research to the public." In 2016, in response to these claims, the University of Alaska Fairbanks Geophysical Institute, which manages the facility, announced that HAARP will host an annual open house in August, allowing visitors to tour the complex.
+This project resurfaced again during the 2022 United Nations Climate Change Conference, known as "COP 27", sparking conspiracies as well as many fantasies, and speaking also about geo-engineering.
+Following the recent 2023 earthquakes in Turkey and Syria, this project, including that of "Blue Beam", has also been accused of having caused earthquakes, giving rise to numerous conspiracy theories.
+Following the widespread visibility of the aurora borealis over much of the Northern Hemisphere in May and again in October 2024, conspiracy theorists promoted HAARP as the true cause of the event.
+
+
+== In popular culture ==
+HAARP gave rise to a live album by the rock band Muse and became the theme of novels like La Route de Gakona by Jean-Paul Jody.
+HAARP is the key plot point in Breaking Point of Tom Clancy's Net Force (2000), where it is used to induce group madness.
+The HAARP facility appears in the 2004 video game X-Men Legends. In the game, the X-Men track the Brotherhood of Mutants to HAARP. The facility is significantly different from its real life counterpart, with snowy valleys around it and vast icy tunnels below. It is guarded by an extensive security force, including armed guards and tanks. The X-Men eventually locate the Brotherhood and learn that sensitive information, including the location of Magneto's imprisonment, is kept in the HAARP computers.
+Season 1, episode 11, of the UPN TV series Seven Days was titled "HAARP Attack". It was broadcast on January 27, 1999.
+The HAARP played a major part in the G.I. Joe: Resolute miniseries. In it, Cobra was able to weaponize the lab to create a Particle Cannon and threaten the world to surrender to them. Though it was freed from Destro and Baroness, Cobra possessed a smaller yet functional version that Cobra Commander planned to use to strike randomly until the world surrendered with Washington, D.C. as his first target. Though Duke couldn't deactivate the weapon, he was able to change the target to Cobra's main base in Springfield, though Cobra Commander seemingly escaped the devastation.
+The Missing in Alaska series, Zombies of HAARP episode, attempts to claim The top secret government facility known as HAARP, an electromagnetic generator, could be turning people into zombies and causing them to disappear in the Alaska Triangle.
+
+
+== See also ==
+EISCAT
+Geophysical Institute
+HIPAS Observatory
+Ionospheric reflection
+Poker Flat Research Range
+Riometer
+SuperDARN
+Sura Ionospheric Heating Facility
+
+
+== References ==
+
+
+== Further reading ==
+"Experiments with the HAARP Ionospheric Heater – Stanford VLF Group". Retrieved 29 June 2024.
+"Evidence for Precipitation of Energetic Particles by Ionospheric "Heating" Transmissions". National Geophysical Data Center. 7 December 2004. Archived from the original on 8 August 2004. Retrieved 27 September 2009.
+J. E. Smith (6 May 2006). "HAARPCompleted!". Indybay. Retrieved 27 September 2009.
+Smith, Jerry E. (1999). HAARP: the ultimate weapon of the conspiracy. Kempton, Ill: Adventures Unltd. ISBN 0-932813-53-4.
+U. S. Inan; T. F. Bell. "Polar Aeronomy and Radio Science (PARS):ULF/ELF/VLF Project". STAR Laboratory, Stanford University. Archived from the original on 27 August 2009. Retrieved 27 September 2009.
+U. S. Inan; M. Golkowski; D. L. Carpenter; N. Reddell; R. C. Moore; T. F. Bell; E. Paschal; P. Kossey; E. Kennedy; S. Z. Meth (2004). "Multi-hop whistler-mode ELF/VLF signals and triggered emissions excited by the HAARP HF heater". Geophysical Research Letters. 31 (24): L24805. Bibcode:2004GeoRL..3124805I. doi:10.1029/2004GL021647.
+E. J. Kennedy; P. Rodriguez; C. A. Selcher. "The High Frequency Active Auroral Research Program". Archived from the original on 5 March 2009. Retrieved 27 September 2009.
+H. L. Rowland (28 April 1999). "Simulations of ELF radiation generated by heating the high-latitude D- region". Journal of Geophysical Research. 104 (A3): 4319–4327. Bibcode:1999JGR...104.4319R. doi:10.1029/1998JA900156.
+Donald Koehler N7MGT, "Secret Death Ray: Or is HAARP a useful science tool?", 73 Magazine (December 1999): 14–17, 37, archived from the original on 23 July 2015, retrieved 21 December 2011{{citation}}:  CS1 maint: numeric names: authors list (link) A first person account from an amateur radio operator who got a full tour of the HAARP site.
+Patents
+C. W. Hansell (1945). "Communication system by pulses through the Earth", U.S. patent 2,389,432.
+R. L. Tanner (1965). "Extremely low-frequency antenna", U.S. patent 3,215,937.
+G. F. Leydorf (1966). "Antenna near field coupling system", U.S. patent 3,278,937.
+B. J. Eastlund (1987). "Method and apparatus for altering a region in the Earth's atmosphere, ionosphere, and/or magnetosphere", U.S. patent 4,686,605.
+B. J. Eastlund (1991). "Method for producing a shell of relativistic particles at an altitude above the earths surface", U.S. patent 5,038,664.
+Videos
+
+Physics Today (15 July 2021). HAARP, the most powerful ionosphere heater on Earth: Plasma interacts with radio waves. Retrieved 29 June 2024 – via YouTube., optical image of an ionospheric plasma created by 2 minutes of stimulation.
+
+
+== External links ==
+
+Official website 
+A Never-Ending Conspiracy Theory in Remote Alaska, The Atlantic, March 10, 2026
