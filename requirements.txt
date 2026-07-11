@@ -8,3 +8,5 @@ faiss-cpu
 wikipedia
 beautifulsoup4
 requests
+python-docx
+fpdf2
